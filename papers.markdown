@@ -3,7 +3,7 @@ layout: default
 title: Papers
 permalink: /papers/
 ---
-[About](/index/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
+[home](/index/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
 
 ## Publications
 - **He, J.**, Chen, D., French, N., & Loboda, T.V. (2022). Cloud-to-ground lightning and near-surface fire weather control wildfire occurrence in Arctic tundra. *Geophysical Research Letters*, 49(2), e2021GL096814. [https://doi.org/10.1029/2021GL096814](https://doi.org/10.1029/2021GL096814)    
