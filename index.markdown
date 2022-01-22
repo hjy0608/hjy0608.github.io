@@ -4,6 +4,7 @@
 
 layout: default
 title: "Jiaying He"
+permalink: /index/
 ---
 [Home](/index/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
 
