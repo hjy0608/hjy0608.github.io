@@ -3,7 +3,7 @@ layout: default
 title: Awards
 permalink: /awards/
 ---
-[home](/home/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
+[Home](/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
 
 ## Awards & Grants
 - Chinese Government Award for Outstanding Self-financed Studenst Abroad. 2020

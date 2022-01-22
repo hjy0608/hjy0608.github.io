@@ -3,7 +3,7 @@ layout: default
 title: Others
 permalink: /others/
 ---
-[home](/home/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
+[Home](/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
 
 ## Services
 - Reviewers for *Environmental Research Letters*, *Science of the Total Environment*, *PLoS One* and *International Journal of Wildland Fire*.     
