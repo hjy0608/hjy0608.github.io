@@ -4,8 +4,9 @@
 
 layout: default
 title: "Jiaying He"
+permalink: /index/
 ---
-[About](/index/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
+[Home](/index/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
 
 I am interested in understanding how terrestrial ecosystems interact with climate change and disturbances like wildfire. My research focuses on the driving mechanisms of disturbances and the impacts of disturbances on ecosystem functioning and carbon balance, combining field and satellite observations, dynamical modeling, and data-driven methods. I also specialize in large-scale monitoring of vegetation dynamics and land-use/land-cover change with remote sensing.
 
