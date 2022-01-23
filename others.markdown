@@ -9,7 +9,7 @@ permalink: /others/
 - *Environmental Research Letters* 
 - *Science of the Total Environment*
 - *PLoS One*
-- *International Journal of Wildland Fire*.     
+- *International Journal of Wildland Fire*
 
 ---
 
@@ -22,5 +22,5 @@ permalink: /others/
 ---
 
 ## Fieldwork experiences
-- Vegetation and soil data collection in Arctic tundra of Seward Peninsula, Alaska. 2017/07 – 2017/08.    
-- Water quality data collection at multiple lakes in Georgia. 2014/07. 
+- Vegetation and soil data collection in Arctic tundra of Seward Peninsula, Alaska. 2017.    
+- Water quality data collection at multiple lakes in Georgia. 2014. 
