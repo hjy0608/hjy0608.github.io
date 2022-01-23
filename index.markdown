@@ -43,7 +43,9 @@ Department of Earth System Science, Tsinghua University.
 ---
 ## Teaching Development
 - **Teaching assistant at Department of Geographical Sciences. 2015 – 2017.**     
-    - Master of Science in Geospatial Information Sciences courses: Spatial Analysis, Spatial Statistics, GIS and Spatial Modeling, Web Programming, Mobile GIS, Advanced Remote Sensing using LiDAR.     
-    - Undergraduate courses: Introduction to Remote Sensing, Introduction to Computer Programming for GIS.
+    - Master of Science in Geospatial Information Sciences courses
+        - Spatial Analysis, Spatial Statistics, GIS and Spatial Modeling, Web Programming, Mobile GIS, Advanced Remote Sensing using LiDAR
+    - Undergraduate courses
+        - Introduction to Remote Sensing, Introduction to Computer Programming for GIS
 
-- **University Teaching and Learning Program (UTLP) Associate Level Certification** at University of Maryland. 2019/05.
+- **University Teaching and Learning Program (UTLP) Associate Level Certification** at University of Maryland. 2019.

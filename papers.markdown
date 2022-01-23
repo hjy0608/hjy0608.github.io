@@ -6,7 +6,7 @@ permalink: /papers/
 [Home](/) / [Publications](/papers/) /  [Awards & Grants](/awards/) /  [Others](/others/)
 
 ## Publications
-- **He, J.**, Chen, D., French, N., & Loboda, T.V. (2022). Cloud-to-ground lightning and near-surface fire weather control wildfire occurrence in Arctic tundra. *Geophysical Research Letters*, 49(2), e2021GL096814. [https://doi.org/10.1029/2021GL096814](https://doi.org/10.1029/2021GL096814)    
+- **He, J.**, Loboda, T.V., Chen, D., & French, N.H.F. (2022). Cloud-to-ground lightning and near-surface fire weather control wildfire occurrence in Arctic tundra. *Geophysical Research Letters*, 49(2), e2021GL096814. [https://doi.org/10.1029/2021GL096814](https://doi.org/10.1029/2021GL096814)    
 - Liu, X., Cheng, X., Liang, Q., Li, T., Peng, F., Chi, Z., & **He, J.** (2022). Grounding Event of Iceberg D28 and Its Interactions with Seabed Topography. *Remote Sensing*, 14, 154. [https://doi.org/10.3390/rs14010154](https://doi.org/10.3390/rs14010154)  
 - **He, J.**, Chen, D., Jenkins, L., & Loboda, T.V. (2021). Impacts of fire and landscape factors on organic soil properties in Arctic tussock tundra. *Environmental Research Letter*, 16(8), 085004. [https://doi.org/10.1088/1748-9326/ac1192](https://doi.org/10.1088/1748-9326/ac1192)   
 - Chen, D., Shevade, V., Baer, A., **He, J.**, Hoffman-Hall, A., Ying, Q., Li, Y., & Loboda, T.V. (2021). A Disease Control-Oriented Land Cover Land Use Map for Myanmar. *Data*, 6, 63. [https://doi.org/10.3390/data6060063](https://doi.org/10.3390/data6060063)     
